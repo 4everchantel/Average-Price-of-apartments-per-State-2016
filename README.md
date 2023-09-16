@@ -46,4 +46,3 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ---
 
-This README provides an overview of the dataset and its potential uses. You can customize it further based on specific details or additional data you might add to the repository.
