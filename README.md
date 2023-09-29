@@ -7,6 +7,8 @@
 ## Overview
 This repository contains a comprehensive dataset on real estate properties, offering insights into property characteristics, pricing, and geographical data. The dataset provides an in-depth look into the factors that influence property prices and can serve as a foundation for various analyses, from basic statistical evaluations to advanced machine learning models.
 
+**Final EDA located in file labeled "2. Real Estate STR EDA.ipynb"**
+
 ## Dataset Description
 
 ### Columns:
